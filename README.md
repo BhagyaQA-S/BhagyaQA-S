@@ -1,5 +1,5 @@
 ![logo](https://github.com/BhagyaQA-S/BhagyaQA-S/blob/main/Profile%20Banner%20.png?raw=true)
-<h1 align="center">Hi 👋, I'm Bhagyashri Domaji Shastrakar</h1>
+<h1 align="center">Hi 👋, I'm Bhagyashri Shastrakar</h1>
 <h3 align="center">A passionate Software QA Engineer | Manual + Automation Testing | Selenium | Core Java | AI Tools from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/736x/54/a4/0d/54a40d11ee02dbb673dc0d2b0c82f05b.jpg">
