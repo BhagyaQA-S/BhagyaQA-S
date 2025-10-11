@@ -6,21 +6,26 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhagyaqa-s&label=Profile%20views&color=0e75b6&style=flat" alt="bhagyaqa-s" /> </p>
 
-- 🔭 I’m currently working on **- 💼 A company-based Manual & Automation Testing project covering Customer, Product, and Payment modules using Selenium WebDriver, Java, and TestNG. - 💻 A personal project: [AutomationFramework](https://github.com/bhagyashastrakar/AutomationFramework) — a demo Selenium framework implementing POM, TestNG, and Data-Driven Testing.**
+- 🔭 I’m currently working on **
+- 💼 A company-based Manual & Automation Testing project covering Customer, Product, and Payment modules using Selenium WebDriver, Java, and TestNG.
+- 💻 A personal project: [AutomationFramework](https://github.com/bhagyashastrakar/AutomationFramework) — a demo Selenium framework implementing POM, TestNG, and Data-Driven Testing.**
 
 - 🌱 I’m currently learning **API Testing using RestAssured | Advanced TestNG | Jenkins CI/CD | Maven | Git & GitHub**
 
-- 👯 I’m looking to collaborate on [- Automation Testing Projects involving Selenium, TestNG, and CI/CD integration](https://github.com/BhagyaQA-S?tab=repositories)
+- 👯 I’m looking to collaborate on [- Automation Testing Projects involving Selenium, TestNG, and CI/CD integration]
+- Project Present Here : (https://github.com/BhagyaQA-S?tab=repositories)
 
 - 🤝 I’m looking for help with [FrameworkAutomation](https://github.com/BhagyaQA-S?tab=repositories)
 
-- 👨‍💻 All of my projects are available at [https://github.com/BhagyaQA-S?tab=repositories](https://github.com/BhagyaQA-S?tab=repositories)
+- 👨‍💻 All of my projects are available at (https://github.com/BhagyaQA-S?tab=repositories)
 
 - 💬 Ask me about **Manual & Automation Testing • Selenium WebDriver • TestNG • POM • Postman • MySQL • Agile Scrum • Core Java (OOPs, Collections, Exception Handling) • Git • GitHub • Jenkins • AI & Emerging Tech (Prompt Engineering, Google Cloud AI, Vertex AI)**
 
 - 📫 How to reach me **bhagya.shastrakar14@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/bhagyashri-shastrakar-78abb426a - https://drive.google.com/file/d/1pCgAK16ddWRZlyw2Rsf6HESyeUAXpudr/view?usp=drivesdk](www.linkedin.com/in/bhagyashri-shastrakar-78abb426a - https://drive.google.com/file/d/1pCgAK16ddWRZlyw2Rsf6HESyeUAXpudr/view?usp=drivesdk)
+- 📄 Know about my experiences
+- Linkdin Profile: [www.linkedin.com/in/bhagyashri-shastrakar-78abb426a]
+- Resume: [https://drive.google.com/file/d/1pCgAK16ddWRZlyw2Rsf6HESyeUAXpudr/view?usp=drivesdk]
 
 - ⚡ Fun fact **I break things for a living — but only in test environments 😄**
 
