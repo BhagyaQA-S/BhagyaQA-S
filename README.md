@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences
 - Linkdin Profile: [www.linkedin.com/in/bhagyashri-shastrakar-78abb426a]
-- Resume: [https://drive.google.com/file/d/1pCgAK16ddWRZlyw2Rsf6HESyeUAXpudr/view?usp=drivesdk]
+- Resume: [https://drive.google.com/file/d/11jg7VYToy9tnnt1B2GNA5VThQgERE8eg/view?usp=drivesdk]
 
 - ⚡ Fun fact **I break things for a living — but only in test environments 😄**
 
