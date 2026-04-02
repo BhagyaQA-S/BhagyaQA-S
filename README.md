@@ -1,4 +1,4 @@
-![logo](https://github.com/BhagyaQA-S/BhagyaQA-S/blob/main/Profile%20Banner%20.png?raw=true)
+![logo]("C:\Users\HP\Downloads\Blue Modern Corporate Staff Profile LinkedIn Banner.png")
 <h1 align="center">Hi 👋, I'm Bhagyashri Shastrakar</h1>
 <h3 align="center">A passionate Software QA Engineer | Manual + Automation Testing | Selenium | Core Java | AI Tools from India</h3>
 
