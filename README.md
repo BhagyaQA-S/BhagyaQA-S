@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Manual & Automation Testing • Selenium WebDriver • TestNG • POM • Postman • MySQL • Agile Scrum • Core Java (OOPs, Collections, Exception Handling) • Git • GitHub • Jenkins • AI & Emerging Tech (Prompt Engineering, Google Cloud AI, Vertex AI)**
 
-- 📫 How to reach me **bhagya.shastrakar14@gmail.com**
+- 📫 How to reach me **bhagyashastrakar95@gmail.com**
 
 - 📄 Know about my experiences
 - Linkdin Profile: [www.linkedin.com/in/bhagyashri-shastrakar-78abb426a]
