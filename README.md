@@ -1,4 +1,4 @@
-![logo]("[github banner.png](https://github.com/BhagyaQA-S/BhagyaQA-S/blob/main/github%20banner.png)")
+![logo](https://github.com/BhagyaQA-S/BhagyaQA-S/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Bhagyashri Shastrakar</h1>
 <h3 align="center">A passionate Software QA Engineer | Manual + Automation Testing | Selenium | Core Java | AI Tools from India</h3>
 
